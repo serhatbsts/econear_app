@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31747834951",
+    "project_id": "solution-challange-eab0d",
+    "storage_bucket": "solution-challange-eab0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31747834951:android:cc11eedd5b173f0d0a9d62",
+        "android_client_info": {
+          "package_name": "com.example.meditation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJSsPWqPI79fbuNIDXxRWNFo0mjAYnFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
