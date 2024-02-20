@@ -106,8 +106,9 @@ Our advanced recycling system makes it easy for users to sort their waste by typ
 
 ![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/5d826775-871e-4a07-860a-50747212fb03)
 
+![Ekran görüntüsü 2024-02-20 150745](https://github.com/burakbaslik/econear_app/assets/88744471/e63202c0-0267-4d13-9b8a-15c2ca33754e)
 
-![Ekran görüntüsü 2024-02-16 210232](https://github.com/burakbaslik/econear_app/assets/88744471/0d231de9-52d7-4a94-9d44-f20ba5ac101e)
+
 
 ![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/5fa5338c-ee02-4cf6-aea4-5d95d7a25f2f)
 ![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/d117055e-2ddf-40c0-b4de-005285baf961)
