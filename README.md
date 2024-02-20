@@ -47,15 +47,9 @@ The "EcoNear" project aims to create awareness about waste management and recycl
 
 
 
+This platform provides detailed information specific to each type of waste, enabling us to better understand the damage that waste causes to the environment. In this way, we can gain a comprehensive awareness of waste management and its environmental impact, while at the same time developing behaviors appropriate to the unique characteristics of each type of waste. Such an approach guides us in the proper segregation and treatment of waste, taking an important step towards a more sustainable and responsible society. 
 
-
-
-
-
-![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/8dc05fca-e308-4525-a526-40b476aee951)
-
-
-This platform provides detailed information specific to each type of waste, enabling us to better understand the damage that waste causes to the environment. In this way, we can gain a comprehensive awareness of waste management and its environmental impact, while at the same time developing behaviors appropriate to the unique characteristics of each type of waste. Such an approach guides us in the proper segregation and treatment of waste, taking an important step towards a more sustainable and responsible society.  ![Adsız tasarım](https://github.com/burakbaslik/econear_app/assets/88744471/4427b4aa-21d5-4957-95f1-a75eb2d0dcd3)
+![Adsız tasarım](https://github.com/burakbaslik/econear_app/assets/88744471/4427b4aa-21d5-4957-95f1-a75eb2d0dcd3)
 
 
 ![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/54419f9d-af73-4667-bb7d-f9896619a866)
@@ -121,9 +115,6 @@ Our advanced recycling system makes it easy for users to sort their waste by typ
 
 
 # **💻 HOME PAGE & PROFİLE PAGE :**
-
-![3000-beyaz](https://github.com/burakbaslik/econear_app/assets/88744471/9018d247-4117-4c96-a57b-77abbdb06d5d)
-
 
 
 
