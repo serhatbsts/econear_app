@@ -344,7 +344,7 @@ flutter run
          https://github.com/serhatbsts <br>
         </td>
         <td width="150" align="center">
-           github kurduktan sonra ekle <br>
+           https://github.com/LH0ste1 <br>
         </td>
      </tr>
     </tbody>
